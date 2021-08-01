@@ -16,7 +16,7 @@ After testing in local, I found that we need to replace all character in the fil
 
 ![Alt_Text](https://i.imgur.com/rv8fYr9.png)
 
-Boom! Our command is now executed. Let's read the flag file. We can bypass `cat & flag` in blacklist with single quote  like `c'a't & f'l'ag`. Our final payload become `*s/.*/((c'a't f'l'ag.txt))/e*`.
+Boom! Our command is now executed. Let's read the flag file. We can bypass `cat & flag` in blacklist with single quote  like `c'a't & f'l'ag`. Our final payload become `s/.*/((c'a't f'l'ag.txt))/e`.
 
 ![Alt_Text](https://i.imgur.com/UGtTuPo.png)
 

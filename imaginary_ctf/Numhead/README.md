@@ -14,7 +14,7 @@ Challenge url--
 
 ![Alt_Text](https://i.imgur.com/jmPount.png)
 
-`2# Post request to "/api/user/nothing-here" with "Authorization: `Your user token`". Your will See '{"detail": "requests were the same :rooFrozen:"}'`
+`2# Post request to "/api/user/nothing-here" with "Authorization: (Your user token)". Your will See '{"detail": "requests were the same :rooFrozen:"}'`
 
 ![Alt_Text](https://i.imgur.com/qxVo8Jd.png)
 

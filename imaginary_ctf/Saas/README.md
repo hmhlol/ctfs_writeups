@@ -20,6 +20,8 @@ Boom! Our command is now executed. Let's read the flag file. We can bypass `cat 
 
 ![Alt_Text](https://i.imgur.com/UGtTuPo.png)
 
+Flag: `ictf{:roocu:roocu:roocu:roocu:roocu:roocursion:rsion:rsion:rsion:rsion:rsion:_473fc2d1}`
+
 
 Thank you for reading. Hope you enjoy this.:cowboy_hat_face::cowboy_hat_face:
 

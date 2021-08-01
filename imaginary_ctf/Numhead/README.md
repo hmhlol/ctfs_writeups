@@ -26,7 +26,7 @@ Challenge url--
 
 ![Alt_Text](https://i.imgur.com/igzutXn.png)
 
-`5# Repeat doing this(#3) until you get 1000 points.`
+`5# Repeat doing this(3#) until you get 1000 points.`
 
 ![Alt_Text](https://i.imgur.com/D5hsjoK.png)
 

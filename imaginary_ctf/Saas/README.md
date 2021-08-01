@@ -12,7 +12,7 @@ Looking at the source code, you can see our payload is in sed command. Since the
 
 ![Alt_Text](https://i.imgur.com/cScOaqu.png)
 
-After testing in local, I found that we need to replace all character in the file with our command. So our payload become `s/.*/((whoami))/e`.
+After testing in local, I found that we need to replace all characters in the file with our command. So our payload become `s/.*/((whoami))/e`.
 
 ![Alt_Text](https://i.imgur.com/rv8fYr9.png)
 

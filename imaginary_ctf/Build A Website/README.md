@@ -20,6 +20,8 @@ I found the index of `<class 'subprocess.Popen'>` at 360. Our final payload -> `
 
 ![Alt_Text](https://i.imgur.com/xelQWh5.png)
 
+Flag: `ictf{:rooYay:_:rooPOG:_:rooHappy:_:rooooooooooooooooooooooooooo:}`
+
 Thank you for reading! :cowboy_hat_face: :cowboy_hat_face:
 
 

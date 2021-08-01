@@ -8,7 +8,7 @@ Challenge url--
 
 ![Alt Text](https://i.imgur.com/wQRRDvD.png)
 
-Looking at the source code, you can see our payload is in sed command. Since these characters `;, |, &` are banned, we can't execute two command. So we have to perform our injection in sed command. We can't also use these characters ("$" and backtick ). After googling awhile, I found that we can also run command as `((command))`. We can use `/e` modifier to excute our command. So the paylaod begin `"s/Lorem/((whoami))/e`. But our command didn't execute.
+Looking at the source code, you can see our payload is in sed command. Since these characters `; | &` are banned, we can't execute two command. So we have to perform our injection in sed command. We can't also use these characters ("$" and backtick ). After googling awhile, I found that we can also run command as `((command))`. We can use `/e` modifier to excute our command. So the paylaod begin `"s/Lorem/((whoami))/e`. But our command didn't execute.
 
 ![Alt_Text](https://i.imgur.com/cScOaqu.png)
 
